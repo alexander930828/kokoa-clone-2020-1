@@ -5,3 +5,5 @@ HTML & CSS are so much fun!
 This time is git hub clas
 
 Programming is fun!
+
+Every day!
